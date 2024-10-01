@@ -1,6 +1,7 @@
 import java.util.Date;
 
-// add-todo modified
+// add-todo modified    BOTH MODIFIED
+// add-date modified    BOTH MODIFIED
 
 public class TodoList {
     // Class to represent a single Todo item with a description and a due date
